@@ -1,0 +1,85 @@
+https://codepen.io/vanessa-dixon/pen/bGdzpwE?editors=1100
+
+
+
+    1. What is Semantic HTML? gives meaning to code.
+
+    2. What is HTML used for? HTML is used for markingup the text. It is the layout of the application.
+
+    3. What is an attribute and where do we put it? attibute is value. It can be placed an element tag.
+
+    4. What is the h1 tag used for? used for making text the most important on the page. How many times should I use it on a page? only once.
+
+    5. Name two tags that have required attributes
+    6. What do we put in the head of our HTML document? meta tags, title, open graph tags
+
+    7. What is an id? a css selector.
+
+    8. What elements can I add an id to? any
+
+    9. How many times can I use the same id on a page? once
+
+    10. What is a class? css selector that weigh more than universal but less than id, inline, embedded
+
+    11. What elements can I add a class to? any
+
+    12. How many times can I use the same class on a page? unlimited
+
+    13. How do I get my link to open in a new tab? 
+
+    14. What is the alt attribute used for? describes the image
+
+    15. How do I reference an id? #name
+
+    16. What is the difference between a section and a div section have semantic meaning and div are non semantic. div are only used for presentation section are good for SEO ranking.
+
+    17. What is CSS used for? styling markup
+
+    18. How do we select an element? Example - every h2 on the page we select an element by it's tag name for instance h2 {}.
+
+    19. What is the difference between a class and an id? - Give me an example of when I might use each one. a class can be used several times on a page an ID can only be used once per page. I would use an id if I wanted to link to the pages. I would use a class if I want to select multiple things.
+
+    20. How do we select classes in CSS? .classname
+
+    21. How do we select a p element with a single class of “human””? .human p
+
+    22. What is a parent child selector? parent child selector is when the child inherence from the parent. 
+
+    23. How do you select all links within a div with the class of sidebar? .sidebar
+
+    24. What is a pseudo selector? a selector that has a colon in it a:hover
+
+    25. What do we use the change the spacing between lines? line-height
+
+    26. What do we use to change the spacing between letters? letter-spacing
+
+    27. What do we use to to change everything to CAPITALS? lowercase? Capitalize? text-transform
+
+    28. How do I add a 1px border around my div that is dotted and black? border: 1px dotted black
+
+    29. How do I select everything on the page? universal selector *
+
+    30. How do I write a comment in CSS? /*  */
+
+    31. How do I find out what file I am in, when I am using the command line? pwd
+
+    32. Using the command line - how do I see a list of files/folders in my current folder? ls
+
+    33. How do I remove a file via the command line?  Why do I have to be careful with this? because you can't get it back. 
+    34. Why should I use version control? so it can track changes and make sure we are not working on the latest version if you are on a team.
+
+    35. How often should I commit to github? everytime you get something working or every 20 to 30 minutes.
+
+    36. What is the command we would use to push our repo up to github? ggit push -u origin branch-name 
+
+
+Stretch Questions
+
+    1. What is the difference between an inline element and a block element? inline only take up the space that it needs and block starts on a new line and take up the full width
+
+    2. What happens when an element is positioned absolutely? position absolute to its first positioned parent
+
+    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+
+    4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default display block div, header, from display inline span,a,strong 
+  
