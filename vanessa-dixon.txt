@@ -70,7 +70,7 @@ https://codepen.io/vanessa-dixon/pen/bGdzpwE?editors=1100
 
     35. How often should I commit to github? everytime you get something working or every 20 to 30 minutes.
 
-    36. What is the command we would use to push our repo up to github? ggit push -u origin branch-name 
+    36. What is the command we would use to push our repo up to github? git push -u origin branch-name 
 
 
 Stretch Questions
